@@ -1,1 +1,1 @@
-Trying to add new file to this repo can you grant me access 
+hello this is my first day to work on git bash
